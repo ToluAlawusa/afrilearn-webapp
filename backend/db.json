@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "courses": [
+    
+    {
+      "id": "31vztct1bmikgcr8501",
+      "name": "tolu",
+      "price": "30",
+      "category": "3",
+      "shortDesc": "tolu's book",
+      "description": "tolu book is here"
+    },
+    {
+      "id": "22029j0mvfqkgd0cieq",
+      "name": "CSS 101",
+      "price": "800",
+      "category": "Tech",
+      "shortDesc": "CSS handbook",
+      "description": "CSS Animations"
+    }
+  ]
+}
